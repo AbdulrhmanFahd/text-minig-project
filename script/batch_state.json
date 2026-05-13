@@ -1,0 +1,181 @@
+{
+  "created_at": "2026-05-12T17:26:49.167849+00:00",
+  "batches": [
+    {
+      "job_name": "batches/b0g9xwwx6purvfezxt9vnpmb8lqofwkv6zih",
+      "display_name": "sentiment-full-batch-001",
+      "batch_num": 1,
+      "submitted_at": "2026-05-13T05:09:51.030707+00:00",
+      "request_count": 500,
+      "comment_count": 7500,
+      "state": "JOB_STATE_SUCCEEDED",
+      "completed_at": "2026-05-13T06:32:55.278148+00:00",
+      "collected": true
+    },
+    {
+      "job_name": "batches/mqeqoxd2dgl789ka22c6a9yokvxgesinurhc",
+      "display_name": "sentiment-full-batch-002",
+      "batch_num": 2,
+      "submitted_at": "2026-05-13T05:09:59.532612+00:00",
+      "request_count": 500,
+      "comment_count": 7500,
+      "state": "JOB_STATE_SUCCEEDED",
+      "completed_at": "2026-05-13T06:32:56.698405+00:00",
+      "collected": true
+    },
+    {
+      "job_name": "batches/0myokcvik6dbwl7tywhm8h8snd5m13bbxl3o",
+      "display_name": "sentiment-full-batch-003",
+      "batch_num": 3,
+      "submitted_at": "2026-05-13T05:10:08.315849+00:00",
+      "request_count": 500,
+      "comment_count": 7500,
+      "state": "JOB_STATE_SUCCEEDED",
+      "completed_at": "2026-05-13T06:32:58.157193+00:00",
+      "collected": true
+    },
+    {
+      "job_name": "batches/mrify3y4l3zqp0ttjze16ei19jbsenmxv72z",
+      "display_name": "sentiment-full-batch-004",
+      "batch_num": 4,
+      "submitted_at": "2026-05-13T05:10:16.184434+00:00",
+      "request_count": 500,
+      "comment_count": 7500,
+      "state": "JOB_STATE_SUCCEEDED",
+      "completed_at": "2026-05-13T06:32:59.555636+00:00",
+      "collected": true
+    },
+    {
+      "job_name": "batches/1kp1bjunq42vm4jx4cpsz52aaf7qdj4mvrin",
+      "display_name": "sentiment-full-batch-005",
+      "batch_num": 5,
+      "submitted_at": "2026-05-13T05:10:24.698667+00:00",
+      "request_count": 500,
+      "comment_count": 7500,
+      "state": "JOB_STATE_SUCCEEDED",
+      "completed_at": "2026-05-13T06:33:01.083680+00:00",
+      "collected": true
+    },
+    {
+      "job_name": "batches/w4dku0cji81i2ipipingu6cp2rz7qw7lenu5",
+      "display_name": "arabic-sa-20260513-b006",
+      "batch_num": 6,
+      "submitted_at": "2026-05-13T05:34:53.172179+00:00",
+      "request_count": 2000,
+      "comment_count": 10000,
+      "state": "JOB_STATE_SUCCEEDED",
+      "completed_at": "2026-05-13T06:33:03.476705+00:00",
+      "collected": true
+    },
+    {
+      "job_name": "batches/0di8rrwhixcdi0qm26cj8k8wxoxowfewsr6a",
+      "display_name": "arabic-sa-20260513-b007",
+      "batch_num": 7,
+      "submitted_at": "2026-05-13T05:36:08.080922+00:00",
+      "request_count": 2000,
+      "comment_count": 10000,
+      "state": "JOB_STATE_SUCCEEDED",
+      "completed_at": "2026-05-13T06:33:06.062994+00:00",
+      "collected": true
+    },
+    {
+      "job_name": "batches/gm70bqzabdy4asm1r6f2i0iryedogj082izg",
+      "display_name": "arabic-sa-20260513-b008",
+      "batch_num": 8,
+      "submitted_at": "2026-05-13T05:37:23.436784+00:00",
+      "request_count": 2000,
+      "comment_count": 10000,
+      "state": "JOB_STATE_SUCCEEDED",
+      "completed_at": "2026-05-13T06:33:08.533620+00:00",
+      "collected": true
+    },
+    {
+      "job_name": "batches/u8er56gfii5uflzii1yai48svobahgvxuhw2",
+      "display_name": "arabic-sa-20260513-b009",
+      "batch_num": 9,
+      "submitted_at": "2026-05-13T05:38:38.531365+00:00",
+      "request_count": 2000,
+      "comment_count": 10000,
+      "state": "JOB_STATE_SUCCEEDED",
+      "completed_at": "2026-05-13T06:33:11.067136+00:00",
+      "collected": true
+    },
+    {
+      "job_name": "batches/2sb8da8o1eqfodyad7esv3mmeen4verluzib",
+      "display_name": "arabic-sa-20260513-b010",
+      "batch_num": 10,
+      "submitted_at": "2026-05-13T05:39:53.902675+00:00",
+      "request_count": 2000,
+      "comment_count": 10000,
+      "state": "JOB_STATE_SUCCEEDED",
+      "completed_at": "2026-05-13T06:33:13.418159+00:00",
+      "collected": true
+    },
+    {
+      "job_name": "batches/waj73roq31ob18f4ea143xpohs1375jg03t4",
+      "display_name": "arabic-sa-20260513-b011",
+      "batch_num": 11,
+      "submitted_at": "2026-05-13T05:41:09.026365+00:00",
+      "request_count": 2000,
+      "comment_count": 10000,
+      "state": "JOB_STATE_SUCCEEDED",
+      "completed_at": "2026-05-13T06:33:15.704332+00:00",
+      "collected": true
+    },
+    {
+      "job_name": "batches/reqf1kuqjp6rpfhimkfjf2cldhp7q1bq43bj",
+      "display_name": "arabic-sa-20260513-b012",
+      "batch_num": 12,
+      "submitted_at": "2026-05-13T05:47:02.121658+00:00",
+      "request_count": 2000,
+      "comment_count": 10000,
+      "state": "JOB_STATE_SUCCEEDED",
+      "completed_at": "2026-05-13T06:33:18.045496+00:00",
+      "collected": true
+    },
+    {
+      "job_name": "batches/8guf5m5ro92bj08vdibs4baai75524rnxfed",
+      "display_name": "arabic-sa-20260513-b013",
+      "batch_num": 13,
+      "submitted_at": "2026-05-13T06:29:13.454251+00:00",
+      "request_count": 2000,
+      "comment_count": 10000,
+      "state": "JOB_STATE_SUCCEEDED",
+      "completed_at": "2026-05-13T06:58:27.678197+00:00",
+      "collected": true
+    },
+    {
+      "job_name": "batches/wk0iy5v3dazxo3l1pz0yec9ejkylm96dagw1",
+      "display_name": "arabic-sa-20260513-b014",
+      "batch_num": 14,
+      "submitted_at": "2026-05-13T06:30:28.646067+00:00",
+      "request_count": 2000,
+      "comment_count": 10000,
+      "state": "JOB_STATE_SUCCEEDED",
+      "completed_at": "2026-05-13T07:03:31.834832+00:00",
+      "collected": true
+    },
+    {
+      "job_name": "batches/mrv6ut6qvvmp5a3mboc4nls9orl63lkt99f1",
+      "display_name": "arabic-sa-20260513-b015",
+      "batch_num": 15,
+      "submitted_at": "2026-05-13T06:31:43.736807+00:00",
+      "request_count": 2000,
+      "comment_count": 10000,
+      "state": "JOB_STATE_SUCCEEDED",
+      "completed_at": "2026-05-13T07:18:21.122196+00:00",
+      "collected": true
+    }
+  ],
+  "sample": {
+    "job_name": "batches/n0391y48dd2qhm0fi77ecrai030tyde1n0cg",
+    "display_name": "sentiment-sample",
+    "submitted_at": "2026-05-12T17:26:49.167849+00:00",
+    "request_count": 2,
+    "comment_count": 30,
+    "state": "JOB_STATE_SUCCEEDED",
+    "completed_at": "2026-05-13T00:40:41.394230+00:00"
+  },
+  "collected_rows": [],
+  "submitted_count": 137500
+}

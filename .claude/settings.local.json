@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(head -60)",
+      "Bash(python -c ' *)",
+      "Bash(python -c \"import pandas as pd; df = pd.read_csv\\('dataset.csv'\\); print\\(df.shape\\); print\\(df.dtypes\\); print\\(df.head\\(10\\)\\); print\\(df.isnull\\(\\).sum\\(\\)\\)\")",
+      "Bash(.venv\\\\Scripts\\\\python -c \"import google.generativeai; print\\('google-generativeai OK'\\)\")",
+      "Bash(.venv\\\\Scripts\\\\pip list *)",
+      "Bash(pip list *)",
+      "Bash(pip install *)",
+      "Bash(python -c \"from google import genai; print\\('google-genai OK:', genai.__version__\\)\")",
+      "Bash(python script/batch_labeler.py --sample)",
+      "Bash(GEMINI_API_KEY=\"AIzaSyCOBl_ah1bNm3I1ZuNki2z0dYcQuJkjWpg\" python script/batch_labeler.py --sample)",
+      "Bash(GEMINI_API_KEY=\"AIzaSyCOBl_ah1bNm3I1ZuNki2z0dYcQuJkjWpg\" python script/batch_labeler.py --submit)",
+      "Bash(python -c \"import dotenv; print\\('dotenv OK'\\)\")",
+      "Bash(python -u -c ' *)"
+    ]
+  }
+}
